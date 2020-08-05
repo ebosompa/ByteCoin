@@ -16,7 +16,7 @@ protocol CoinManagerDelegate {
 struct CoinManager {
     
 //bitcoin average
-//https://bitcoinaverage-global-bitcoin-index-v1.p.rapidapi.com/indices/global/ticker/BTCEUR?rapidapi-key=cdb43c61b1msh8f1999ae4c5caeap16aa70jsn0dcb776b4600
+
     
     let baseURL = "https://bitcoinaverage-global-bitcoin-index-v1.p.rapidapi.com/indices/global/ticker/BTC"
     //&fiat=jpy&rapidapi-key="
